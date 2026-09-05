@@ -99,3 +99,23 @@ public class MovieController {
         }).orElse(ResponseEntity.notFound().build());
     }
 }
+### Output
+#### Create
+<img width="1435" height="609" alt="image" src="https://github.com/user-attachments/assets/8239d3f3-7f3d-47de-8e78-160f0c05245c" />
+
+#### Get all
+<img width="1432" height="923" alt="image" src="https://github.com/user-attachments/assets/70cea615-975c-4d21-9329-97bc73ae3b2f" />
+
+#### Get by id
+<img width="1428" height="606" alt="image" src="https://github.com/user-attachments/assets/5368aca9-578a-4ab8-ae59-550d99845c6c" />
+
+#### Update
+<img width="1426" height="739" alt="image" src="https://github.com/user-attachments/assets/efabc59b-9d20-4bae-86d4-7ea1db13ae87" />
+
+#### Delete
+<img width="1427" height="583" alt="image" src="https://github.com/user-attachments/assets/70949f5d-59e6-435d-8c45-0f1dde6c1a10" />
+
+### Result
+Thus, the Spring Boot application was successfully developed to store and retrieve movie data using Hibernate ORM and expose the Movies database through REST APIs. CRUD operations were successfully performed using the REST endpoints.
+
+
